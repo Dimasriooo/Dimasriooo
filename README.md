@@ -1,5 +1,4 @@
 # 💫 Hi there, I'm Dimas Rio Adisaputra
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
