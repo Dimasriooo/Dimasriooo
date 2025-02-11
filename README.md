@@ -17,4 +17,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Dimasriooo&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### Reach me on
+- <a href="https://www.linkedin.com/in/dimasrioadisaputra/">LinkedIn</a>
+- <a href="https://www.instagram.com/dimasriooo/">Instagram</a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
