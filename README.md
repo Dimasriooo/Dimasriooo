@@ -1,7 +1,11 @@
-# 💫 Hi there, I'm Dimas Rio Adisaputra
+### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
+- My Full Name is Dimas Rio Adisaputra
+- You can call me Dimas, Rio, or Adi
+- I am from Depok, Jawa Barat
+- 
 
-## 🌐 Socials:
+### 💬 Get in Touch With Me!
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dimasriooo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dimasrioadisaputra) 
 
 # 💻 Tech Stack:
